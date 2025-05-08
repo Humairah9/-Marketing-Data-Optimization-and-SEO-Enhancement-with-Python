@@ -1,0 +1,2 @@
+# -Marketing-Data-Optimization-and-SEO-Enhancement-with-Python
+In this project, I cleaned and standardized a marketing dataset to improve data quality and usability. Using Python, I handled missing values, removed duplicates, corrected encoding issues, and reformatted inconsistent text. I also engineered a new SEO-focused feature—short_title—to make product titles more user-friendly and search-optimized.
